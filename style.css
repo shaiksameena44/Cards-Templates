@@ -1,0 +1,319 @@
+.main{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 150px;
+ }
+ .card1{
+  height: 2vh;
+  width: 23vw;
+  background-color: balck;
+  /* display: flex; */
+  padding-bottom: 400px;
+  position: relative;
+  z-index:1;
+  overflow: hidden;
+ border: solid aqua;
+ border-radius: 20px; 
+ background-color: black;
+ align-items: center;
+ justify-content: center;
+ /* text-align:center; */
+ /* flex-direction: column; */
+ }
+ .img{
+  height: 180px;
+  width: 180px;
+  position: absolute;
+  /* padding-left: 60px; */
+  /* padding-top: 40px; */
+  border-radius: 50%;
+  /* border: 2px solid black; */
+  bottom: 190px;
+  left:80px;
+
+ }
+ 
+ .stars{
+  display: flex;
+  font-size: 10px;
+  padding-left: 100px;
+  color: aqua;
+  /* padding-top: 40px; */
+ }
+.pic{
+  /* display: flex;  */
+   padding-left: 300px;
+   padding-top: 30px;
+   /* width: 400px;
+   height: 300px;
+   position: absolute;
+   background-position: center; */
+   /* margin: 0px; */
+   /* font-size: 10px; */
+   color: aliceblue
+   
+}
+
+.n{
+  padding-left: 105px;
+  padding-top: 90px;
+  margin: 0;
+  color: aliceblue;
+  
+
+}
+.j{
+  padding-left: 90px;
+  padding-top: 0px;
+  margin: 0;
+  color: aliceblue;
+  
+}
+/* .s{
+  padding-left: 50px;
+  
+} */
+.button{
+  display: flex;
+  gap: 30px;
+  padding-left: 75px;
+  padding-top: 10px;
+  border: none;
+  border-radius: 100;
+}
+.b1{
+  border: none;
+  border-radius: 40px;
+  background-color: aqua
+}
+.b2{
+  border: none;
+  border-radius: 40px;
+  background-color: aqua
+}
+.mar{
+  margin-top: 0px;
+  margin: 0px;
+}
+.circle{
+  width: 300px;
+  height: 300px;
+  background-color: aqua;
+  border-radius: 50%;
+  position: absolute;
+  right: 110px;
+  bottom: 190px;
+  z-index: -1;
+}
+
+
+
+ .card2{
+  height: 2vh;
+  width: 23vw;
+  background-color: balck;
+  /* display: flex; */
+  padding-bottom: 400px;
+  position: relative;
+  z-index:1;
+  overflow: hidden;
+ border: solid aqua;
+ border-radius: 20px; 
+ background-color: black;
+ align-items: center;
+ justify-content: center;
+ }
+ .img1{
+  height: 180px;
+  width: 180px;
+  position: absolute;
+  /* padding-left: 60px; */
+  /* padding-top: 40px; */
+  border-radius: 100%;
+  /* border: 2px solid black; */
+  border-radius: 50%;
+   bottom: 190px;
+  left:80px;
+
+ }
+ 
+ .stars1{
+  display: flex;
+  font-size: 10px;
+  padding-left: 100px;
+  color: aqua;
+  /* padding-top: 40px; */
+ }
+.pic1{
+  /* display: flex;  */
+   padding-left: 300px;
+   padding-top: 30px;
+   /* width: 400px;
+   height: 300px;
+   position: absolute;
+   background-position: center; */
+   /* margin: 0px; */
+   /* font-size: 10px; */
+   color: aliceblue
+   
+}
+
+.s{
+  padding-left: 105px;
+  padding-top: 90px;
+  margin: 0;
+  color: aliceblue;
+  
+
+}
+.a{
+  padding-left: 90px;
+  padding-top: 0px;
+  margin: 0;
+  color: aliceblue;
+  
+}
+/* .s{
+  padding-left: 50px;
+  
+} */
+.button1{
+  display: flex;
+  gap: 30px;
+  padding-left: 75px;
+  padding-top: 10px;
+  border: none;
+  border-radius: 100;
+}
+.b3{
+  border: none;
+  border-radius: 40px;
+  background-color: aqua
+}
+.b4{
+  border: none;
+  border-radius: 40px;
+  background-color: aqua
+}
+.mar{
+  margin-top: 0px;
+  margin: 0px;
+}
+.circle{
+  width: 300px;
+  height: 300px;
+  background-color: aqua;
+  border-radius: 50%;
+  position: absolute;
+  right: 110px;
+  bottom: 190px;
+  z-index: -1;
+}
+
+
+
+
+
+ .card3{
+  height: 2vh;
+  width: 23vw;
+  background-color: balck;
+  /* display: flex; */
+  padding-bottom: 400px;
+  position: relative;
+  z-index:1;
+  overflow: hidden;
+ border: solid aqua;
+ border-radius: 20px; 
+ background-color: black;
+ align-items: center;
+ justify-content: center;
+ }
+
+ .img2{
+  height: 180px;
+  width: 180px;
+  position: absolute;
+  /* padding-left: 60px; */
+  /* padding-top: 40px; */
+  border-radius: 100%;
+  /* border: 2px solid black; */
+  bottom: 190px;
+  left:80px;
+
+ }
+ 
+ .stars2{
+  display: flex;
+  font-size: 10px;
+  padding-left: 100px;
+  color: aqua;
+  /* padding-top: 40px; */
+ }
+.pic2{
+  /* display: flex;  */
+   padding-left: 300px;
+   padding-top: 30px;
+   /* width: 400px;
+   height: 300px;
+   position: absolute;
+   background-position: center; */
+   /* margin: 0px; */
+   /* font-size: 10px; */
+   color: aliceblue
+   
+}
+
+.v{
+  padding-left: 105px;
+  padding-top: 90px;
+  margin: 0;
+  color: aliceblue;
+  
+
+}
+.k{
+  padding-left: 90px;
+  padding-top: 0px;
+  margin: 0;
+  color: aliceblue;
+  
+}
+/* .s{
+  padding-left: 50px;
+  
+} */
+.button2{
+  display: flex;
+  gap: 30px;
+  padding-left: 75px;
+  padding-top: 10px;
+  border: none;
+  border-radius: 100;
+}
+.b5{
+  border: none;
+  border-radius: 40px;
+  background-color: aqua
+}
+.b6{
+  border: none;
+  border-radius: 40px;
+  background-color: aqua
+}
+.mar{
+  margin-top: 0px;
+  margin: 0px;
+}
+.circle{
+  width: 300px;
+  height: 300px;
+  background-color: aqua;
+  border-radius: 50%;
+  position: absolute;
+  right: 110px;
+  bottom: 190px;
+  z-index: -1;
+}
